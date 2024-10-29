@@ -1,0 +1,8 @@
+compile.sh
+notas
+client.exe
+chunkserver.exe
+masterserver.exe
+.vscode
+msgpack-c/
+rpclib/
